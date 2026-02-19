@@ -12,13 +12,11 @@ simple LP counter for league of legends
 - reset the counter
 
 
+## 🖥️ How to Run
+
 ### Requirements
-- Java 17
 
-
-### Instalação
-```bash
-git clone link
-cd projeto
-npm install
-npm start
+- Java 17 or higher installed
+- An IDE (IntelliJ, NetBeans, Eclipse)  
+  or
+- Terminal with `javac` available
