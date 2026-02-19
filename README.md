@@ -26,9 +26,9 @@ simple LP counter for league of legends
 
 Run Using an IDE (Recommended)
 
+```bash
 1. Clone the repository:
 
-```bash
 git clone https://github.com/pedro-sky/LP-Counter
 
 2. Open the project folder in your preferred IDE.
