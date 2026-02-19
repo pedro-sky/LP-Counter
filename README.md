@@ -23,3 +23,16 @@ simple LP counter for league of legends
 - An IDE (IntelliJ, NetBeans, Eclipse)  
   or
 - Terminal with `javac` available
+
+Run Using an IDE (Recommended)
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/pedro-sky/LP-Counter
+
+2. Open the project folder in your preferred IDE.
+
+3. Locate the main class (`TelaPDL.java`).
+
+4. Run the application from the IDE.
